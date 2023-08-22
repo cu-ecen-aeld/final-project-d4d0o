@@ -1,3 +1,5 @@
+> ***Project barely initiated - no relevant content available yet***
+> 
 ## Advanced Embedded Linux Development - Final Project Repository
 
 *Developer - David Peter (GitHub ID: d4d0o)*
