@@ -2,7 +2,7 @@
 > 
 ## Advanced Embedded Linux Development - Final Project Repository
 
-*Developer - David Peter (GitHub ID: d4d0o) [d4d0o/final-project-assignment-d4d0o](https://github.com/d4d0o/final-project-assignment-d4d0o)*
+*Developer - David Peter (GitHub ID: d4d0o, repo: [d4d0o/final-project-assignment-d4d0o](https://github.com/d4d0o/final-project-assignment-d4d0o))*
 
 ### **Content Overview**
 
